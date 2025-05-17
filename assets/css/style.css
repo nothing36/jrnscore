@@ -1,6 +1,15 @@
 * {
     margin: 12px;
     background-color: rgb(230, 239, 248);
+    font-family: monospace;
+}
+
+.overview h1 {
+    color: rgb(73,118,143);
+}
+
+.today h1 {
+    color: rgb(255,133,130);
 }
 
 .headerIcon {
@@ -17,5 +26,10 @@
     display: flex;
     justify-content: left;
     align-items: center;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
 }
 
