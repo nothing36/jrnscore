@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="54.206pt" height="51.713pt" version="1.1" viewBox="578.591 754.471 54.206 51.713">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="57.105pt" height="57.064pt" version="1.1" viewBox="581.104 751.559 57.105 57.064">
   <!--
 	Exported with Concepts: Smarter Sketching
 	Version: 3963 on iOS 18.4
@@ -9,7 +9,7 @@
   <desc>Drawing exported from Concepts: Smarter Sketching</desc>
   <defs></defs>
   <g id="New_Layer_1" opacity="1.000">
-    <path id="STROKE_e8c6d4cf-7a69-4c7c-9388-3273dc8be5b1" opacity="1.000" fill="none" stroke="#474444" stroke-width="1.968" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 631.074 780.328 L 626.248 795.210 L 613.618 804.461 L 597.932 804.461 L 585.221 795.210 L 580.314 780.328 L 585.221 765.446 L 597.932 756.195 L 613.618 756.195 L 626.248 765.446 Z"></path>
-    <path id="STROKE_8b27d6fe-5dfc-447e-ae2d-bf008a0a1d09" opacity="1.000" fill="none" stroke="#474444" stroke-width="1.968" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 616.391 779.992 L 611.111 789.148 L 600.552 789.148 L 595.272 779.992 L 600.552 770.837 L 611.111 770.837 Z"></path>
+    <path id="STROKE_e8c6d4cf-7a69-4c7c-9388-3273dc8be5b1" opacity="1.000" fill="none" stroke="#474444" stroke-width="5.089" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 634.674 780.091 L 629.915 795.505 L 617.462 805.086 L 601.996 805.086 L 589.464 795.505 L 584.626 780.091 L 589.464 764.677 L 601.996 755.096 L 617.462 755.096 L 629.915 764.677 Z"></path>
+    <path id="STROKE_8b27d6fe-5dfc-447e-ae2d-bf008a0a1d09" opacity="1.000" fill="none" stroke="#474444" stroke-width="5.089" stroke-opacity="1.000" stroke-linecap="round" stroke-linejoin="round" d="M 620.058 780.091 L 614.852 789.574 L 604.441 789.574 L 599.235 780.091 L 604.441 770.608 L 614.852 770.608 Z"></path>
   </g>
 </svg>
