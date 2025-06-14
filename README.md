@@ -8,7 +8,7 @@ you play. Don't journal your life, score it.
 
 ## jrns #   score: x
 
-### NOW / TASKS - 0 / 3
+### NEXT DAY / TASKS - 0 / 3
 
 - i will do this
 - i will do that
